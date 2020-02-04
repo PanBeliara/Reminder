@@ -1,0 +1,7 @@
+C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\DatabaseConnectivity.dll.config
+C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\DatabaseConnectivity.dll
+C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\DatabaseConnectivity.pdb
+C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.dll
+C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.pdb
+C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache

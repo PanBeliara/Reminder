@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Reminder
+{
+    public partial class mainWindow : Form
+    {
+        public mainWindow(string content)
+        {
+            InitializeComponent();
+            this.content.Text = content;
+        }
+
+        private void close_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}

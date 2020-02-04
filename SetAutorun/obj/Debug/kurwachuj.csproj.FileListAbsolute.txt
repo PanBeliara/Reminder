@@ -1,0 +1,7 @@
+C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\bin\Debug\kurwachuj.exe.config
+C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\bin\Debug\kurwachuj.exe
+C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\bin\Debug\kurwachuj.pdb
+C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\obj\Debug\kurwachuj.csprojResolveAssemblyReference.cache
+C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\obj\Debug\kurwachuj.csproj.CoreCompileInputs.cache
+C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\obj\Debug\kurwachuj.exe
+C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\obj\Debug\kurwachuj.pdb
