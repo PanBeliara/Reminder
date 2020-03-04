@@ -20,7 +20,10 @@ namespace Reminder
         {
             this.connection.Open();
 
-            string stm = "CREATE TABLE IF NOT EXISTS dates(date TEXT NOT NULL, message TEXT NOT NULL, important INTEGER NOT NULL, constant INTEGER NOT NULL)";
+            string stm = "CREATE TABLE IF NOT EXISTS dates(" +
+                "date TEXT NOT NULL, message TEXT NOT NULL, " +
+                "important INTEGER NOT NULL, " +
+                "constant INTEGER NOT NULL)";
             var command = new SQLiteCommand(stm, this.connection);
             command.ExecuteNonQuery();
         }
@@ -30,7 +33,8 @@ namespace Reminder
             int imp = 0, con = 0;
             if (important) imp = 1;
             if (constant) con = 1;
-            string stm = "INSERT INTO dates(date, message, important, constant) VALUES ('" + date + "', '" + text + "', " + imp + ", " + con + ")";
+            string stm = "INSERT INTO dates(date, message, important, constant) " +
+                "VALUES ('" + date + "', '" + text + "', " + imp + ", " + con + ")";
 
             var command = new SQLiteCommand(stm, this.connection);
             command.ExecuteNonQuery();
