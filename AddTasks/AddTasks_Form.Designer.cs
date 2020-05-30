@@ -29,6 +29,11 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.date = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.message = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Important = new System.Windows.Forms.DataGridViewCheckBoxColumn();
+            this.Constant = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.dateTimePicker = new System.Windows.Forms.DateTimePicker();
             this.add = new System.Windows.Forms.Button();
             this.dayOfWeek = new System.Windows.Forms.ComboBox();
@@ -40,11 +45,6 @@
             this.checkedListBox = new System.Windows.Forms.CheckedListBox();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.close = new System.Windows.Forms.Button();
-            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.date = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.message = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Important = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.Constant = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.dateType.SuspendLayout();
             this.SuspendLayout();
@@ -68,6 +68,42 @@
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.Size = new System.Drawing.Size(443, 232);
             this.dataGridView1.TabIndex = 0;
+            // 
+            // id
+            // 
+            this.id.HeaderText = "ID";
+            this.id.Name = "id";
+            this.id.ReadOnly = true;
+            this.id.Visible = false;
+            this.id.Width = 43;
+            // 
+            // date
+            // 
+            this.date.HeaderText = "Date";
+            this.date.Name = "date";
+            this.date.ReadOnly = true;
+            this.date.Width = 55;
+            // 
+            // message
+            // 
+            this.message.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.message.HeaderText = "Message";
+            this.message.Name = "message";
+            this.message.ReadOnly = true;
+            // 
+            // Important
+            // 
+            this.Important.HeaderText = "Important";
+            this.Important.Name = "Important";
+            this.Important.ReadOnly = true;
+            this.Important.Width = 57;
+            // 
+            // Constant
+            // 
+            this.Constant.HeaderText = "Constant";
+            this.Constant.Name = "Constant";
+            this.Constant.ReadOnly = true;
+            this.Constant.Width = 55;
             // 
             // dateTimePicker
             // 
@@ -169,7 +205,7 @@
             // 
             // close
             // 
-            this.close.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.close.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.close.Location = new System.Drawing.Point(381, 334);
             this.close.Name = "close";
             this.close.Size = new System.Drawing.Size(74, 23);
@@ -177,42 +213,6 @@
             this.close.Text = "Close";
             this.close.UseVisualStyleBackColor = true;
             this.close.Click += new System.EventHandler(this.close_Click);
-            // 
-            // id
-            // 
-            this.id.HeaderText = "ID";
-            this.id.Name = "id";
-            this.id.ReadOnly = true;
-            this.id.Visible = false;
-            this.id.Width = 43;
-            // 
-            // date
-            // 
-            this.date.HeaderText = "Date";
-            this.date.Name = "date";
-            this.date.ReadOnly = true;
-            this.date.Width = 55;
-            // 
-            // message
-            // 
-            this.message.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.message.HeaderText = "Message";
-            this.message.Name = "message";
-            this.message.ReadOnly = true;
-            // 
-            // Important
-            // 
-            this.Important.HeaderText = "Important";
-            this.Important.Name = "Important";
-            this.Important.ReadOnly = true;
-            this.Important.Width = 57;
-            // 
-            // Constant
-            // 
-            this.Constant.HeaderText = "Constant";
-            this.Constant.Name = "Constant";
-            this.Constant.ReadOnly = true;
-            this.Constant.Width = 55;
             // 
             // ReminderConfig_Form
             // 

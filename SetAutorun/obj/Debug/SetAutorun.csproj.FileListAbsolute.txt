@@ -1,10 +1,10 @@
 C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\obj\Debug\SetAutorun.csproj.CoreCompileInputs.cache
 C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\obj\Debug\kurwachuj.exe
 C:\Users\Pan Beliara\source\repos\Reminder\kurwachuj\obj\Debug\kurwachuj.pdb
-C:\Users\Pan Beliara\source\repos\Reminder\SetAutorun\obj\Debug\SetAutorun.csprojResolveAssemblyReference.cache
 C:\Users\Pan Beliara\source\repos\Reminder\SetAutorun\obj\Debug\SetAutorun.csproj.CoreCompileInputs.cache
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\Set autorun.exe.config
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\Set autorun.exe
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\Set autorun.pdb
 C:\Users\Pan Beliara\source\repos\Reminder\SetAutorun\obj\Debug\Set autorun.exe
 C:\Users\Pan Beliara\source\repos\Reminder\SetAutorun\obj\Debug\Set autorun.pdb
+C:\Users\Pan Beliara\source\repos\Reminder\SetAutorun\obj\Debug\SetAutorun.csprojAssemblyReference.cache

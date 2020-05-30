@@ -21,7 +21,7 @@ namespace Reminder
                 {
                     Console.WriteLine("File retrieved - " + filePath);
 
-                    RegistryKey rk = Registry.CurrentUser.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Run", true);
+                    RegistryKey rk = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
                     rk.SetValue("Reminder", "\"" + filePath + "\"");
 
                     Console.WriteLine("Key added.");
@@ -40,7 +40,7 @@ namespace Reminder
             {
                 try
                 {
-                    RegistryKey rk = Registry.CurrentUser.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Run", true);
+                    RegistryKey rk = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
                     rk.DeleteValue("Reminder");
 
                     Console.WriteLine("Key deleted.");

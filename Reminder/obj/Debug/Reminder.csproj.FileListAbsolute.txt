@@ -1,7 +1,6 @@
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\Reminder.exe.config
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\Reminder.exe
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\Reminder.pdb
-C:\Users\Pan Beliara\source\repos\Reminder\Reminder\obj\Debug\Reminder.csprojResolveAssemblyReference.cache
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\obj\Debug\Reminder.mainWindow.resources
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.Cache
@@ -19,3 +18,5 @@ C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\System.Data.SQLite
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\System.Data.SQLite.dll.config
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\DatabaseConnectivity.pdb
 C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\DatabaseConnectivity.dll.config
+C:\Users\Pan Beliara\source\repos\Reminder\Reminder\obj\Debug\Reminder.csprojAssemblyReference.cache
+C:\Users\Pan Beliara\source\repos\Reminder\Reminder\obj\Debug\Reminder.csproj.CopyComplete

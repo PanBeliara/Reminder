@@ -4,4 +4,5 @@ C:\Users\Pan Beliara\source\repos\Reminder\Reminder\bin\Debug\DatabaseConnectivi
 C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
 C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.dll
 C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.pdb
-C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnection.csprojAssemblyReference.cache
+C:\Users\Pan Beliara\source\repos\Reminder\DatabaseConnectivity\obj\Debug\DatabaseConnection.csproj.CopyComplete

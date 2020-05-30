@@ -7,10 +7,11 @@ C:\Users\Pan Beliara\source\repos\Reminder\ReminderConfig\obj\Debug\AddTasks.csp
 C:\Users\Pan Beliara\source\repos\Reminder\ReminderConfig\obj\Debug\AddTasks.csproj.CoreCompileInputs.cache
 C:\Users\Pan Beliara\source\repos\Reminder\ReminderConfig\obj\Debug\Add tasks.exe
 C:\Users\Pan Beliara\source\repos\Reminder\ReminderConfig\obj\Debug\Add tasks.pdb
-C:\Users\Pan Beliara\source\repos\Reminder\AddTasks\obj\Debug\AddTasks.csprojResolveAssemblyReference.cache
 C:\Users\Pan Beliara\source\repos\Reminder\AddTasks\obj\Debug\Reminder.ReminderConfig_Form.resources
 C:\Users\Pan Beliara\source\repos\Reminder\AddTasks\obj\Debug\Reminder.Properties.Resources.resources
 C:\Users\Pan Beliara\source\repos\Reminder\AddTasks\obj\Debug\AddTasks.csproj.GenerateResource.Cache
 C:\Users\Pan Beliara\source\repos\Reminder\AddTasks\obj\Debug\AddTasks.csproj.CoreCompileInputs.cache
 C:\Users\Pan Beliara\source\repos\Reminder\AddTasks\obj\Debug\Add tasks.exe
 C:\Users\Pan Beliara\source\repos\Reminder\AddTasks\obj\Debug\Add tasks.pdb
+C:\Users\Pan Beliara\source\repos\Reminder\AddTasks\obj\Debug\AddTasks.csprojAssemblyReference.cache
+C:\Users\Pan Beliara\source\repos\Reminder\AddTasks\obj\Debug\AddTasks.csproj.CopyComplete
